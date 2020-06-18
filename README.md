@@ -19,4 +19,4 @@
  - stopword.txt 停用词
  ## 对话示例
 
- <img src="https://github.com/Divine-w/12306chatbot/blob/master/%E5%AF%B9%E8%AF%9D%E7%A4%BA%E4%BE%8B.png" width="200"  alt="对话示例"/>
+ <img src="https://github.com/Divine-w/12306chatbot/blob/master/%E5%AF%B9%E8%AF%9D%E7%A4%BA%E4%BE%8B.png" width="600"  alt="对话示例"/>
