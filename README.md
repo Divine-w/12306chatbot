@@ -18,4 +18,4 @@
  - data_train.xlsx 意图分类训练数据
  - stopword.txt 停用词
  ## 对话示例
- ![](https://github.com/Divine-w/12306chatbot/new/master/对话示例.png)
+ ![](https://github.com/Divine-w/12306chatbot/blob/master/%E5%AF%B9%E8%AF%9D%E7%A4%BA%E4%BE%8B.png)
