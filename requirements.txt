@@ -1,0 +1,7 @@
+pandas==1.0.3
+selenium==3.141.0
+foolnltk==0.1.7
+requests==2.23.0
+fool==0.0.1
+Pillow==7.2.0
+scikit_learn==0.23.1
