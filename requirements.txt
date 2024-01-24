@@ -3,5 +3,5 @@ selenium==3.141.0
 foolnltk==0.1.7
 requests==2.31.0
 fool==0.0.1
-Pillow==9.3.0
+Pillow==10.2.0
 scikit_learn==0.23.1
